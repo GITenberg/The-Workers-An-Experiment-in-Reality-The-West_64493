@@ -1,0 +1,29 @@
+_repo: The-Workers-An-Experiment-in-Reality-The-West_64493
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wyckoff, Walter A. (Walter Augustus)
+    alias: Wyckoff, Walter Augustus
+    birthdate: 1865
+    deathdate: 1908
+    gutenberg_agent_id: '50452'
+    url: http://www.gutenberg.org/2009/agents/50452
+description: ''
+gutenberg_issued: '2021-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Unemployed -- United States'
+- !lcsh 'Working class -- United States'
+- !lcc 'HD'
+- GITenberg
+tableOfContents: The army of the unemployed -- Living by odd jobs -- Finding steady
+  work -- A hand-truckman in a factory -- Among the revolutionaries -- A road builder
+  on the World's Fair Grounds -- From Chicago to Denver -- From Denver to the Pacific.
+title: 'The Workers: An Experiment in Reality. The West'
+url: http://www.gutenberg.org/ebooks/64493
