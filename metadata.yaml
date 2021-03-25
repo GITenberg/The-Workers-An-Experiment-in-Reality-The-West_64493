@@ -1,5 +1,8 @@
 _repo: The-Workers-An-Experiment-in-Reality-The-West_64493
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64493-h/images/cover.jpg
 creator:
   author:
     agent_name: Wyckoff, Walter A. (Walter Augustus)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '50452'
     url: http://www.gutenberg.org/2009/agents/50452
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64493#The-Workers-An-Experiment-in-Reality-The-West
 gutenberg_issued: '2021-02-08'
 gutenberg_type: Text
 identifiers:
